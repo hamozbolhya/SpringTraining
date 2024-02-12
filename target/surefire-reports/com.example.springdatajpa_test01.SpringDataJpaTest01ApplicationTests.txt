@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.springdatajpa_test01.SpringDataJpaTest01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.470 s -- in com.example.springdatajpa_test01.SpringDataJpaTest01ApplicationTests

@@ -1,0 +1,5 @@
+com\example\springdatajpa_test01\student\Student.class
+com\example\springdatajpa_test01\student\StudentService.class
+com\example\springdatajpa_test01\SpringDataJpaTest01Application.class
+com\example\springdatajpa_test01\student\StudentRepository.class
+com\example\springdatajpa_test01\student\StudentController.class
